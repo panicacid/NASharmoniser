@@ -16,7 +16,7 @@ So, NASharmoniser was born from neccessity to fix this absolute mess of a file s
 
 ## Usage
 
-1. Clone this repository to your local machine or NAS:
+1. Clone this repository to your local *nix based machine or the NAS itself (won't run from Windows):
    ```
    git clone https://github.com/PanicAcid/NASharmoniser.git
    cd NASharmoniser
